@@ -2,38 +2,53 @@
 sidebar_position: 4
 ---
 
-# Nenad Pajovic CV
-
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
-
-## About me
-
-### Experience
-
-### Education
+# Nenad Pajović CV
 
 
-Create a file at `blog/2021-02-28-greetings.md`:
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+Technical writer, father, non-tech guy trying to learn more each day.
 
-Congratulations, you have made your first post!
+<div id="webaddress">
+<a href="nenadwritesdocs@gmail.com>nenadwritesdocs@gmail.com</a>
+| <a href="https://www.nenadwritesdocs.com/">My personal blog (WIP)</a>
+</div>
 
-Feel free to play around and edit this post as much you like.
-```
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+Email: nenadwritesdocs@gmail.com
+
+
+## Education :school: 
+
+`2011-2016`
+__Faculty of Philology - English language and literature__
+
+## Professional technical writing experience :writing_hand:
+
+### Xentral (January 2022 - present)
+
+At Xentral I experienced working at a startup. The main task of the documentation team is to keep the online help up-to-date, publish release notes and assist the product team with the UI text. 
+
+### FIS (April 2020 - January 2022
+
+### CallidusCloud, part of SAP - (March 2019 - April 2020) 
+
+At CallidusCloud I had an opportunity to work in DITA environment. My responsabiiites included updating online help, publishing release notes, reviewing UI texts.
+
+### eFront (March 2018 - April 2019)
+
+At eFront I transfered from the customer service roll to techincal writing. I had an opportunity to learn from some amazing colleagues. I also experienced working in the agile environment where documentation was part of definition of done. 
+
+## Tools and Skills :hammer_and_wrench:
+
+Throughout my career I worked with different tools, and documentation workframes. 
+
+- MadCap Flare
+- Paligo
+- Authorit
+- Markdown
+- Maintaining Confluence pages
+- Sharepoint
+- Git (check my git profile >link<)
+
+
+
