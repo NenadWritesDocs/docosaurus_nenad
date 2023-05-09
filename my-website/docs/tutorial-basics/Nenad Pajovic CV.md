@@ -8,10 +8,7 @@ sidebar_position: 4
 
 Technical writer, father, non-tech guy trying to learn more each day.
 
-<div id="webaddress">
-<a href="nenadwritesdocs@gmail.com>nenadwritesdocs@gmail.com</a>
-| <a href="https://www.nenadwritesdocs.com/">My personal blog (WIP)</a>
-</div>
+
 
 
 Email: nenadwritesdocs@gmail.com
