@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Purpose of this site',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_writing.svg').default,
     description: (
       <>
         This site is a pet project designed to host my CV, and showcase my technical writing portfolio.
@@ -13,8 +13,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'My hobbies and projects',
+    Svg: require('@site/static/img/undraw_landscape_photo.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -23,8 +23,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '(Not) Yet another technical writing blog',
+    Svg: require('@site/static/img/undraw_blog.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
