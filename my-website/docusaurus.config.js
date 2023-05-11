@@ -100,17 +100,14 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/in/nenad-pajovi%C4%87-127272159/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Substack',
+                href: 'https://substack.com/profile/85055366-lako_polako?utm_source=user-menu',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              
             ],
           },
           {
@@ -121,7 +118,7 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'GitHub - Docosaurus repository',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
