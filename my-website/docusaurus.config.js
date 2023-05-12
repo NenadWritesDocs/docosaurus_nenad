@@ -74,9 +74,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Portfolio',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'NYATWB', position: 'left'},
+          {to: '/HP', label: 'Projects', position: 'left'},
           {
             href: 'https://github.com/NenadWritesDocs',
             label: 'GitHub',
@@ -91,7 +92,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Portfolio',
                 to: '/docs/intro',
               },
             ],
