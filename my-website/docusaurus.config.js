@@ -77,7 +77,6 @@ const config = {
             label: 'Portfolio',
           },
           {to: '/blog', label: 'NYATWB', position: 'left'},
-          {to: '/HP', label: 'Projects', position: 'left'},
           {
             href: 'https://github.com/NenadWritesDocs',
             label: 'GitHub',
