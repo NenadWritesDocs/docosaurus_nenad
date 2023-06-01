@@ -1,8 +1,3 @@
----
-Author: 'Nenad'
-
----
-
 # What I think about when I talk about my job
 
 One of my earliest childhood memories was creating a kindergarten project on the topic of "What I want to be when I grow up". Sitting at our kitchen table over a colorful piece of paper with the help from my father I listed the following occupations:
@@ -24,7 +19,7 @@ I studied Enlgish language and literature in college. I loved english language s
 
 ## Technical writing
 
-I started my technical writing career almost accidentally. The company where I worked as a customer service agent had a job opening for a techcnial writer role (for the same product). I applied for it, passed the interview and got the job. Easy as that. At that time I wasn't fully aware what this job was all about. 
+I started my technical writing career almost by accident. The company where I worked as a customer service agent had a job opening for a techcnial writer role (for the same product). I applied for it, passed the interview and got the job. Easy as that. At that time I wasn't fully aware what this job was all about. 
 I was too much focused on writing the perfect sentences, spending hours reviewing every single article just to avoid embarrassing myself. 
 
 ## Technical writing after five years
