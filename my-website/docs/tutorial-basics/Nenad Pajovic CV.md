@@ -1,51 +1,51 @@
----
-sidebar_position: 4
----
+Nenad Pajović, Technical Writer - CV
 
-# Nenad Pajović CV
+Technical writer with five years of experience in the IT industry. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and technologies, including Markdown, and version control systems. Can talk for hours about short stories, bicycles, and cooking. 
 
+If needed, can provide refference letters for my previous work experience. 
+## Contact details
+:email: nenadwritesdocs@gmail.com
 
+:phone: +381612242532
 
-Technical writer, father, non-tech guy trying to learn more each day.
+# Professional technical writing experience
 
+## Think Big Development (July 2023 - present)
 
+As a technical writer, I have had the opportunity to contribute to various aspects of documentation within the organization. Collaborating closely with senior developers, I contributed in creating the onboarding guide for new team members. Additionally, I have been responsible for creating client-facing documentation, which includes end-user documentation and project specific documents.
 
+## Grid Dynamics (January 2023 - June 2023)
 
-Email: nenadwritesdocs@gmail.com
+At Grid Dynamics I worked as a lone writer, serving multiple teams. My responsibilities included writing developer documentation, user guides and organising internal team documentation in Confluence. I also  contributed to the development of API documentation using the Swagger platform.
 
+## Xentral (January 2022 - December 2022) - remote position
 
-## Education :school: 
+During my tenure at Xentral, I gained valuable experience in a startup environment as part of a dedicated team of four technical writers. Our main task was to keep the online help up-to-date, publish release notes and assist the product team with the UI text.
 
-`2011-2016`
-__Faculty of Philology - English language and literature__
+## FIS (April 2020 - January 2022)
 
-## Professional technical writing experience :writing_hand:
+During my tenure at FIS I had the privilege to work with senior technical, where I acquired fundamental knowledge of version control systems. Our team was responisble for updating documentation (online help, release notes, and developer documentation) that was published in quarterly releases.
 
-### Xentral (January 2022 - present)
+## CallidusCloud, part of SAP - (March 2019 - April 2020)
 
-At Xentral I experienced working at a startup. The main task of the documentation team is to keep the online help up-to-date, publish release notes and assist the product team with the UI text. 
+At CallidusCloud I had an opportunity to work in DITA environment. My responsibilities included updating online help, publishing release notes, reviewing UI texts.
 
-### FIS (April 2020 - January 2022
+## Front (March 2018 - April 2019)
 
-### CallidusCloud, part of SAP - (March 2019 - April 2020) 
+At eFront I transfered from the customer service roll to techincal writing. I had an opportunity to learn the basics of technical writing from senior colleagues. Moreover, I gained experience working in an agile environment where documentation played an integral role as part of the definition of done.
 
-At CallidusCloud I had an opportunity to work in DITA environment. My responsabiiites included updating online help, publishing release notes, reviewing UI texts.
+# 🛠️ Tools and Skills
 
-### eFront (March 2018 - April 2019)
+Throughout my career I worked with different tools, and documentation work-frames.
 
-At eFront I transfered from the customer service roll to techincal writing. I had an opportunity to learn from some amazing colleagues. I also experienced working in the agile environment where documentation was part of definition of done. 
+- Content Management Systems (MadCap Flare, Paligo, ClickHelp, Authorit)
+    Markdown
+- Content Management Platforms (Confluence, WikiJS, Azure DevOps wiki, Sharepoint)
+- Version control systems (Git, SVN)
+- Docs-as-code
+- Static site generators
+- Pet project (a site built on the Docosaurus platform and deployed via Netlify - https://nenadwritesdocs.com/)
 
-## Tools and Skills :hammer_and_wrench:
+# 🏫 Education
 
-Throughout my career I worked with different tools, and documentation workframes. 
-
-- MadCap Flare
-- Paligo
-- Authorit
-- Markdown
-- Maintaining Confluence pages
-- Sharepoint
-- Git (check my git profile >link<)
-
-
-
+2011-2016 University of Belgrade, Faculty of Philology - English language and literature

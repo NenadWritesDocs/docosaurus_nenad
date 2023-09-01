@@ -89,12 +89,7 @@ const config = {
         links: [
           {
             title: 'Docs',
-            items: [
-              {
-                label: 'Portfolio',
-                to: '/docs/intro',
-              },
-            ],
+        
           },
           {
             title: 'Community',
