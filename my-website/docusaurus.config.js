@@ -45,6 +45,9 @@ const config = {
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          blogTitle: 'Not yet another technical writing blog!',
+          blogDescription: 'Sharing thoughts, rants, and observations.',
+          postsPerPage: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
