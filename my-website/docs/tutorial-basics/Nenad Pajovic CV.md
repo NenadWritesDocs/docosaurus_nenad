@@ -2,7 +2,7 @@ Nenad Pajović, Technical Writer - CV
 
 Technical writer with five years of experience in the IT industry. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and technologies, including Markdown, and version control systems. Can talk for hours about short stories, bicycles, and cooking. 
 
-If needed, can provide refference letters for my previous work experience. 
+If needed, can provide reference letters for my previous work experience. 
 ## Contact details
 :email: nenadwritesdocs@gmail.com
 
@@ -16,7 +16,7 @@ As a technical writer, I have had the opportunity to contribute to various aspec
 
 ## Grid Dynamics (January 2023 - June 2023)
 
-At Grid Dynamics I worked as a lone writer, serving multiple teams. My responsibilities included writing developer documentation, user guides and organising internal team documentation in Confluence. I also  contributed to the development of API documentation using the Swagger platform.
+At Grid Dynamics I worked as a lone writer, serving multiple teams. My responsibilities included writing developer documentation, user guides and organizing internal team documentation in Confluence. I also  contributed to the development of API documentation using the Swagger platform.
 
 ## Xentral (January 2022 - December 2022) - remote position
 
@@ -24,7 +24,7 @@ During my tenure at Xentral, I gained valuable experience in a startup environme
 
 ## FIS (April 2020 - January 2022)
 
-During my tenure at FIS I had the privilege to work with senior technical, where I acquired fundamental knowledge of version control systems. Our team was responisble for updating documentation (online help, release notes, and developer documentation) that was published in quarterly releases.
+During my tenure at FIS I had the privilege to work with senior technical, where I acquired fundamental knowledge of version control systems. Our team was responsible for updating documentation (online help, release notes, and developer documentation) that was published in quarterly releases.
 
 ## CallidusCloud, part of SAP - (March 2019 - April 2020)
 
@@ -32,17 +32,17 @@ At CallidusCloud I had an opportunity to work in DITA environment. My responsibi
 
 ## eFront (March 2018 - April 2019)
 
-At eFront I transfered from the customer service roll to techincal writing. I had an opportunity to learn the basics of technical writing from senior colleagues. Moreover, I gained experience working in an agile environment where documentation played an integral role as part of the definition of done.
+At eFront I transferred from the customer service roll to technical writing. I had an opportunity to learn the basics of technical writing from senior colleagues. Moreover, I gained experience working in an agile environment where documentation played an integral role as part of the definition of done.
 
 # 🛠️ Tools and Skills
 
-Throughout my career I worked with different tools, and documentation work-frames.
+Throughout my career I had experience with different authoring tools, and documentation concepts.
 
-- Content Management Systems (MadCap Flare, Paligo, ClickHelp, Authorit)
-    Markdown
+- Authoring tools (MadCap Flare, Paligo, ClickHelp, AuthorIt)
+- Writing documentation in Markdown
 - Content Management Platforms (Confluence, WikiJS, Azure DevOps wiki, Sharepoint)
 - Version control systems (Git, SVN)
-- Docs-as-code
+- Docs-as-code approach
 - Static site generators
 - Pet project (a site built on the Docosaurus platform and deployed via Netlify - https://nenadwritesdocs.com/)
 
