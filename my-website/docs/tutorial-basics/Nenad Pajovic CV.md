@@ -30,7 +30,7 @@ During my tenure at FIS I had the privilege to work with senior technical, where
 
 At CallidusCloud I had an opportunity to work in DITA environment. My responsibilities included updating online help, publishing release notes, reviewing UI texts.
 
-## Front (March 2018 - April 2019)
+## eFront (March 2018 - April 2019)
 
 At eFront I transfered from the customer service roll to techincal writing. I had an opportunity to learn the basics of technical writing from senior colleagues. Moreover, I gained experience working in an agile environment where documentation played an integral role as part of the definition of done.
 

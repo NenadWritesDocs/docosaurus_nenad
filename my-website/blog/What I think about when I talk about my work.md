@@ -11,7 +11,7 @@ One of my earliest childhood memories was creating a kindergarten project on the
 Even though I showed ambition in the early years I never got near fulfilling any of those wishes. Serbia's space program is non-existing, and my driving skills barely get me through day-to-day rides around Belgrade. At least I drive a rally car (it's a Toyota Yaris, unfortunately not the GR one). When it comes to football I made it to my high-school class team based only on the fact that I fulfilled the following requirements:
 
 
-
+s
 * are you a boy - **YES**
 * are there more than 5 boys in your class so that there's an actual competition for the gollie spot - **NO**
 
