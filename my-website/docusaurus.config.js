@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://nenadwritesdocs.netlify.app/',
+  url: 'https://nenadwritesdocs.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://nenadwritesdocs.netlify.app/',
+  baseUrl: 'https://nenadwritesdocs.com/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -151,6 +151,9 @@ module.exports = {
          * Path to data on filesystem relative to site dir.
          */
         path: './photos',
+        baseUrl: 'https://nenadwritesdocs.com/',
+        title: 'Nenad Writes Docs',
+        url: 'https://nenadwritesdocs.com/',
       },
     ],
   ],
