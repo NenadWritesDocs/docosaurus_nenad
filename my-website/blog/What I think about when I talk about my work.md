@@ -1,8 +1,7 @@
 # What I think about when I talk about my job
+![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/nenadpajovic/Desktop/GitHub%2520projects/Docosaurus_nenad/my-website/static/img/rajac.jpg?version%253D1700948165602)
 
 One of my earliest childhood memories was creating a kindergarten project on the topic of "What I want to be when I grow up". Sitting at our kitchen table over a colorful piece of paper with the help from my father I listed the following occupations:
-
-
 
 * an astronaut
 * a rally driver
@@ -32,11 +31,11 @@ Five years is a lot of time and things can change during that period. For me, th
 
 This year I lost my job due to the "global financial climate" or however you want to wrap it. I was desperate, and at some point even considered changing my career. But in the end I found another technical writing job and just started thinking about it as a 9 to 5 obligation that helps pay my bills.
 
-Do I enjoy working with my colleagues and being a part of the team?
+### Do I enjoy working with my colleagues and being a part of the team?
 
 Yes, definitely. I'm lucky enough to be surrounded with great colleagues who accepted me from the first day.
 
-Do I enjoy writing documentation?
+### Do I enjoy writing documentation?
 
 On a good day, yes. But those days are scarce and I cherish them. But I learned not to perceive myself as a technical writer. I believe I'm more than the person who sits at the laptop and _"Develops comprehensive documentation and translates complex ideas into easily understandable text"_ or whatever is the newest trend in writing the job description. At least this job gives me an opportunity to learn about new technologies and leaves me enough time to explore my hobbies.
 
