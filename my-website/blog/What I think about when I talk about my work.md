@@ -1,5 +1,5 @@
 # What I think about when I talk about my job
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/nenadpajovic/Desktop/GitHub%2520projects/Docosaurus_nenad/my-website/static/img/rajac.jpg?version%253D1700948165602)
+![Alt text](../static/img/rajac.jpg)
 
 One of my earliest childhood memories was creating a kindergarten project on the topic of "What I want to be when I grow up". Sitting at our kitchen table over a colorful piece of paper with the help from my father I listed the following occupations:
 
