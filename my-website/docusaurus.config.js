@@ -1,4 +1,4 @@
-// @ts-nocheck
+// @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://nenadwritesdocs.com/',
+  url: 'https://nenadwritesdocs.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://nenadwritesdocs.com/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -45,16 +45,12 @@ const config = {
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          blogTitle: 'Not yet another technical writing blog!',
-          blogDescription: 'Sharing thoughts, rants, and observations.',
-          postsPerPage: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-  
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -132,29 +128,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  // ...
-  plugins: [
-    [
-      '@docusaurus/plugin-content-blog',
-      {
-        /**
-         * Required for any multi-instance plugin
-         */
-        id: 'photography',
-        /**
-         * URL route for the blog section of your site.
-         * *DO NOT* include a trailing slash.
-         */
-        routeBasePath: 'photography',
-        /**
-         * Path to data on filesystem relative to site dir.
-         */
-        path: './photos',
-        baseUrl: 'https://nenadwritesdocs.com/',
-        title: 'Nenad Writes Docs',
-        url: 'https://nenadwritesdocs.com/',
-      },
-    ],
-  ],
-};
+module.exports = config;
