@@ -1,5 +1,15 @@
+---
+date: 2023-11-13T10:00
+slug: Talking about my job
+title: What I think about when I talk about my job
+authors: [Nenad]
+custom_edit_url: null
+tag: rant
+---
+
 # What I think about when I talk about my job
 ![Alt text](../static/img/rajac.jpg)
+*Road to the mountain Rajac. Captured with my drone*
 
 One of my earliest childhood memories was creating a kindergarten project on the topic of "What I want to be when I grow up". Sitting at our kitchen table over a colorful piece of paper with the help from my father I listed the following occupations:
 
