@@ -26,10 +26,10 @@ REDIS_URL=redis://Grain_redis
 REDIS_URL_APP=redis://Grain_redis
 DATABASE_URL=mysql://root:Grain@Grain_mysql:3306/Jabberwockyxr?serverVersion=8.0.32
 DATABASE_URL_READ=mysql://root:Grain@Grain_mysql:3306/Jabberwockyxr?serverVersion=8.0.32
-API_ADMIN_EMAIL=youremail@thinkbig.dev
+API_ADMIN_EMAIL=youremail@2222222.dev
 API_ADMIN_PASSWORD=password
-API_ADMIN_KEY=l6pe63gbsf
-API_ADMIN_SECRET=tipum8o5z8w1pkdolmg6b4ux00c6tt
+API_ADMIN_KEY=222222222
+API_ADMIN_SECRET=222222222
 MESSENGER_TRANSPORT_DSN=redis://Grain_redis:6379/messages
 Jabberwocky_TITLE_ID={your_Jabberwocky_title_ID}
 Jabberwocky_SECRET_KEY={your_Jabberwocky_secret_key}
@@ -37,7 +37,7 @@ Jabberwocky_URL_PROTOCOL=https
 Jabberwocky_DOMAIN=Jabberwockyapi.com
 TWITCH_CLIENT_ID=dkfjdlksfjlsdkjfldksjfau85y2c7
 TWITCH_CLIENT_SECRET=sdf;lksdflkjdsflkjsd2qwqhn
-TWITCH_UNIQUE_ID=887843368
+TWITCH_UNIQUE_ID=22222222222
 ```
 
 > Note: Replace placeholders with your own information (e.g., email address, Jabberwocky account details).
