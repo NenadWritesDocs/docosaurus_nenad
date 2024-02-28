@@ -31,3 +31,10 @@ const sidebars = {
 };
 
 module.exports = sidebars;
+module.exports = {
+  // Other sidebar items
+  mySidebar: {
+    // Existing sidebar items
+    'Portfolio': ['portfolio'],
+  },
+};
