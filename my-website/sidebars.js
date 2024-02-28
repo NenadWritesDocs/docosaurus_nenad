@@ -29,12 +29,9 @@ const sidebars = {
   ],
    */
 };
-
-module.exports = sidebars;
 module.exports = {
-  // Other sidebar items
   mySidebar: {
-    // Existing sidebar items
-    'Portfolio': ['portfolio'],
+    // Existing and new sidebar items
+    'Portfolio': ['/Users/nenadpajovic/Desktop/GitHub projects/Docosaurus_nenad/my-website/portfolio/portfolio.md'],
   },
 };
