@@ -28,10 +28,16 @@ const sidebars = {
     },
   ],
    */
-};
-module.exports = {
+  // Import or define the docs variable containing the sidebar configuration
+// Define the sidebar configuration under the 'mySidebar' key
+const docs = {
   mySidebar: {
     // Existing and new sidebar items
-    'Portfolio': ['/Users/nenadpajovic/Desktop/GitHub projects/Docosaurus_nenad/my-website/portfolio/portfolio.md'],
+    'Portfolio': ['tutorial-basics/portfolio.md'],
+    // Add more sidebar items as needed
   },
-};
+}
+
+// Export the entire sidebar configuration
+module.exports = docs;
+docs/tutorial-basics/portfolio.md
