@@ -69,7 +69,7 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'CV',
+          label: 'CV and portfolio',
         },
         {to: '/blog', label: 'NYATWB', position: 'left'},
         {

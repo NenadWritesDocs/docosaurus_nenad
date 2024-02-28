@@ -35,8 +35,8 @@ Jabberwocky_TITLE_ID={your_Jabberwocky_title_ID}
 Jabberwocky_SECRET_KEY={your_Jabberwocky_secret_key}
 Jabberwocky_URL_PROTOCOL=https
 Jabberwocky_DOMAIN=Jabberwockyapi.com
-TWITCH_CLIENT_ID=m4glr11m292sv2n69ar2auau85y2c7
-TWITCH_CLIENT_SECRET=lzzzgx6uv2towvt4yij0uxct2qwqhn
+TWITCH_CLIENT_ID=dkfjdlksfjlsdkjfldksjfau85y2c7
+TWITCH_CLIENT_SECRET=sdf;lksdflkjdsflkjsd2qwqhn
 TWITCH_UNIQUE_ID=887843368
 ```
 
