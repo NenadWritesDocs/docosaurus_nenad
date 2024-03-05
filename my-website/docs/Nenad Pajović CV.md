@@ -12,11 +12,11 @@ If needed, can provide reference letters for my previous work experience.
 
 ## Think Big Development (July 2023 - present)
 
-As a technical writer, I have had the opportunity to contribute to various aspects of documentation within the organization. Collaborating closely with senior developers, I contributed in creating the onboarding guide for new team members. Additionally, I have been responsible for creating client-facing documentation, which includes end-user documentation and project specific documents.
+As a technical writer,  I have been responsible for creating client-facing documentation, which includes end-user documentation (how-to guides, reference documentation) and project specific documents.Collaborating closely with senior developers, I contributed in creating the onboarding guide for new team members. Additionally,
 
 ## Grid Dynamics (January 2023 - June 2023)
 
-At Grid Dynamics I worked as a lone writer, serving multiple teams. My responsibilities included writing developer documentation, user guides and organizing internal team documentation in Confluence. I also  contributed to the development of API documentation using the Swagger platform.
+At Grid Dynamics I worked as a lone writer, assigned to  multiple teams. My responsibilities included writing developer documentation, user guides and organizing internal team documentation in Confluence. I also  contributed to the development of API documentation using the Swagger platform.
 
 ## Xentral (January 2022 - December 2022) - remote position
 
@@ -24,7 +24,7 @@ During my tenure at Xentral, I gained valuable experience in a startup environme
 
 ## FIS (April 2020 - January 2022)
 
-During my tenure at FIS I had the privilege to work with senior technical, where I acquired fundamental knowledge of version control systems. Our team was responsible for updating documentation (online help, release notes, and developer documentation) that was published in quarterly releases.
+During my tenure at FIS I had the privilege to work with senior technical writers, where I acquired fundamental knowledge of version control systems. Our team was responsible for updating documentation (online help, release notes, and developer documentation) that was published in quarterly releases.
 
 ## CallidusCloud, part of SAP - (March 2019 - April 2020)
 

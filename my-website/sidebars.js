@@ -7,10 +7,18 @@ const sidebars = {
 
   // Manual sidebar definition
   mySidebar: {
-    // Existing and new sidebar items
-    'Portfolio':[
-      'Portfolio/Onboarding guide for backend developers',]
+    // Existing sidebar items
+    'Portfolio': [
+      'Portfolio/Onboarding guide for backend developers',
+    ],
     // Add more sidebar items as needed
+
+    // New sidebar "hobbies" definition
+    hobbies: [
+      // Add content items for the "hobbies" sidebar
+      // Example:
+      'hobbies/test',
+    ],
   },
 };
 
