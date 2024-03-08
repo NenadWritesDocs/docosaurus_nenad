@@ -7,10 +7,11 @@ const sidebars = {
 
   // Manual sidebar definition
   mySidebar: {
-    // Existing sidebar items
-    'Portfolio': [
+    // Existing and new sidebar items
+    'Portfolio':[
       'Portfolio/Onboarding guide for backend developers',
-    ],
+      'Portfolio/Challenge your audience',]
+
     // Add more sidebar items as needed
   },
 };

@@ -1,8 +1,9 @@
-
+# Challenge your audience
 This article explains how you can use Peregrine to create gamification experience for the users of a streaming platform. 
+
 # Introduction
 
-In the gamification context, creating content that challenges the audience often involves the design of missions, leaderboards, and rewards such as badges and pins. You can achieve this in Peregrine by creating items, statistics, missions with objectives, and executing rules. The complexity of the setup may vary from the gamification experience type that you want to create. 
+In the gamification context, creating content that challenges the audience often involves the design of missions, leaderboards, and rewards such as badges and pins. You can achieve this in Peregrine by creating items, statistics, missions with objectives, and executing rules. The complexity of the setup may vary from the gamification experience type that you want to create. 
 
 Missions - Missions are specific tasks or objectives that user needs to complete within a gamified system or application. Design missions so that they are challenging but achievable, encouraging engagement and participation. They can vary in complexity and can include activities like completing certain in-game actions, answering quizzes, or achieving specific goals.
 
@@ -14,7 +15,11 @@ Badges and Pins (Items) - Badges and pins serve as visual representations of acc
 
 In this example you will learn how to create an automated rule that rewards players based on the number of videos they watched on your streaming platform. In addition to this, you will learn how to create a leaderboard. 
 
->:clipboard: NOTE: In this example you need to create some basic objects in Peregrine. If you need to refresh your knowledge on this, please check the linked articles in each step.
+:::note 
+
+In this example you need to create some basic objects in Peregrine. If you need to refresh your knowledge on this, please check the linked articles in each step.
+
+:::
 
 
 
@@ -22,8 +27,9 @@ In this example you will learn how to create an automated rule that rewards play
 
 You can start this setup by creating an item class called Badges where you will store different badges as items.
 
->💡 TIP:
-> To associate these items with the player statistics, you must add a **Text** property field called **StatName** so that you can add the player statsitic that is item is associated to.
+:::tip
+To associate these items with the player statistics, you must add a **Text** property field called **StatName** so that you can add the player statsitic that is item is associated to.
+:::
 
 For this scenario, create badges based on the achievements of the users of your platform. For example, you can create the following items:
 
@@ -44,13 +50,13 @@ The next step is to configure a custom event that will be used in **Rules** **en
 
 In the Step #4 you need to configure a mission with objectives. The objectives should be clear and manageable tasks for your players to complete in order to achieve the designed goal. This can be anything from adding information to their profile, sharing the app to social media platforms, or performing actions within the platform.
 
-When creating a mission objective you must select a trigger. In this case, the trigger should be the previously created custom event. If you create an objective called “player_watched_add” add this custom event to the trigger field. 
+When creating a mission objective you must select a trigger. In this case, the trigger should be the previously created custom event. If you create an objective called “player_watched_add” add this custom event to the trigger field. 
 
 Each objective can contain a reward, that will be granted to the player once the objective is completed.
 
-### Step #5 - Create a rule 
+### Step #5 - Create a rule 
 
-The final step in this procedure is to create a rule that will use the previously created elements to grant the item to the player and update the player statistic once the player watches a video. 
+The final step in this procedure is to create a rule that will use the previously created elements to grant the item to the player and update the player statistic once the player watches a video. 
 
 To create a rule go to **Rule Engine** > **Create Rule**. Define the rule in the following way:
 
