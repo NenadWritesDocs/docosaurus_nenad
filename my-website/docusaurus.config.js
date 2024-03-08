@@ -72,8 +72,8 @@
             label: 'CV and portfolio',
           },
           {
-            type: 'docSidebar',  // Assuming you want to keep the same type
-            sidebarId: 'hobbies',  // Replace with your desired sidebar id
+            type: 'doc',  // Assuming you want to keep the same type
+            docId: 'hobbies',  // Replace with your desired sidebar id
             position: 'left',  // Adjust position as needed
             label: 'hobbies',  // Change label to your desired section name
           },

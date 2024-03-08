@@ -12,13 +12,6 @@ const sidebars = {
       'Portfolio/Onboarding guide for backend developers',
     ],
     // Add more sidebar items as needed
-
-    // New sidebar "hobbies" definition
-    hobbies: [
-      // Add content items for the "hobbies" sidebar
-      // Example:
-      'hobbies/test',
-    ],
   },
 };
 
