@@ -1,6 +1,6 @@
 # Onboarding guide for backend developers
 
-Welcome to the team! In order to get started efficiently, please follow the steps outlined below to set up your local development environment.
+Welcome to the team! To get started, please follow the steps outlined below to set up your local development environment.
 
 ## Tools and files required
 
@@ -11,7 +11,7 @@ Ensure you have access to the following tools and files:
 - **Grain and Editor repositories:** These repositories should already be cloned from Azure DevOps. If not, please reach out to the DevOps team for access.
 
 ## Configuring necessary files
-
+Follow this guide to configure necessary files for your local development environment.  
 ### Configuring .env file
 
 The `.env` file stores necessary variables for running tests on your local environment. Follow these steps to create and configure it:
@@ -47,7 +47,11 @@ TWITCH_CLIENT_SECRET=sdf;lksdflkjdsflkjsd2qwqhn
 TWITCH_UNIQUE_ID=22222222222
 ```
 
-> Note: Replace placeholders with your own information (e.g., email address, Jabberwocky account details).
+:::note:
+
+Replace placeholders with your own information (e.g., email address, Jabberwocky account details).
+
+:::
 
 Repeat the same process to create `.env.test.local` file.
 
@@ -99,4 +103,3 @@ docker-compose up
 
 Your Peregrine X application is now running locally and accessible at: [http://Grain.local.peregrinex.com](http://Grain.local.peregrinex.com). Proceed to initialize the database setup in your browser and populate your database with data.
 
-Feel free to reach out to the team if you encounter any issues during this setup process. 
