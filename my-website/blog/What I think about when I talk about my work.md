@@ -1,5 +1,5 @@
 ---
-date: 2023-11-13T10:00
+date: 2023-11-13
 slug: Talking about my job
 title: What I think about when I talk about my job
 authors: [Nenad]

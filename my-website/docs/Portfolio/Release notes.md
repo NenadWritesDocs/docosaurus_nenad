@@ -1,4 +1,4 @@
-# Release Notes
+# Release notes
 The 22.4 release version of Peregrine brings several new features, enhancements, and fixed
 issues.
 ## What’s new

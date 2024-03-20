@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #816ae4;
+  --ifm-color-primary: #7421bc;
   --ifm-color-primary-dark: #694edf;
   --ifm-color-primary-darker: #5d40dc;
   --ifm-color-primary-darkest: #4224c6;
@@ -129,4 +129,16 @@
 .admonition-note .admonition-icon svg {
   stroke: #f1c40f;
   fill: #f1c40f;
+}
+h1 {
+  color: rgb(51, 153, 59);
+}
+#h2 {
+  color: #97e986;
+}
+#b {
+  color: #a8f45c;
+}
+#h3 {
+  color: #45b400;
 }

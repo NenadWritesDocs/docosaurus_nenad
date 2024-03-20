@@ -1,5 +1,5 @@
 ---
-date: 2023-09-13T10:00
+date: 2023-09-13
 slug: Hello There!
 title: Hello there!
 authors: [Nenad]

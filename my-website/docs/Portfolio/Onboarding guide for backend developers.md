@@ -11,7 +11,9 @@ Ensure you have access to the following tools and files:
 - **Grain and Editor repositories:** These repositories should already be cloned from Azure DevOps. If not, please reach out to the DevOps team for access.
 
 ## Configuring necessary files
+
 Follow this guide to configure necessary files for your local development environment.  
+
 ### Configuring .env file
 
 The `.env` file stores necessary variables for running tests on your local environment. Follow these steps to create and configure it:

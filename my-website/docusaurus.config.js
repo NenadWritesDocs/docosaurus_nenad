@@ -45,6 +45,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          sortPosts: 'ascending',
+          postsPerPage: 1,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -71,6 +73,8 @@ const config = {
           position: 'left',
           label: 'CV and portfolio',
         },
+
+
         {to: '/blog', label: 'NYATWB', position: 'left'},
         {
           href: 'https://github.com/NenadWritesDocs',
