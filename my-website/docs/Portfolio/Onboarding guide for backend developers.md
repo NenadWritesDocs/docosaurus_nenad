@@ -104,4 +104,3 @@ docker-compose up
 ```
 
 Your Peregrine X application is now running locally and accessible at: [http://Grain.local.peregrinex.com](http://Grain.local.peregrinex.com). Proceed to initialize the database setup in your browser and populate your database with data.
-
