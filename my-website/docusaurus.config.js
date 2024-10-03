@@ -1,6 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-export default {
+module.exports = {
   url: 'https://nenadwritesdocs.netlify.app/', // Url to your site with no trailing slash
   baseUrl: 'my-website', // Base directory of your site relative to your repo
   // ...
