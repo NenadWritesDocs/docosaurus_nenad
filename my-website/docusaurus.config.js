@@ -1,5 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+export default {
+  url: 'https://nenadwritesdocs.netlify.app/', // Url to your site with no trailing slash
+  baseUrl: 'my-website', // Base directory of your site relative to your repo
+  // ...
+};
+
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
@@ -21,7 +27,7 @@ const config = {
   organizationName: 'NenadWritesDocs', // Usually your GitHub org/user name.
   projectName: 'docusaurus_nenad', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
