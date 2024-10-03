@@ -13,7 +13,7 @@ If needed, can provide reference letters for my previous work experience.
 
 ## FIS (May 2024 - present)
 
-Back at FIS after after 2 years. Now part of a different product, working together with a team of technical writers. Documenting end-user documentation, developer guides, and advocating technical writing best practices.
+Back at FIS after after 2 years. Now part of a different product organization, working together with a team of technical writers. Documenting end-user documentation, developer guides, and advocating technical writing best practices.
 
 ## Think Big Development (July 2023 - March 2024)
 
