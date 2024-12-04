@@ -30,12 +30,9 @@ const config = {
     locales: ['en'],
   },
 
-  // Custom fields
-  customFields: {
-    markdownPlugins: [
-      // Highlight admonitions.
-      remarkableAdmonitions({ icon: 'svg-inline' }),
-    ],
+  // Add markdown configuration at the top level
+  markdown: {
+    remarkPlugins: [remarkableAdmonitions],
   },
 
   presets: [
@@ -45,21 +42,21 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Add any additional docs options here
+          // Additional docs options
         },
         blog: {
           showReadingTime: true,
           sortPosts: 'ascending',
           postsPerPage: 1,
-          // Add any additional blog options here
+          // Additional blog options
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        // Include the remarkable-admonitions plugin
-        markdown: {
-          remarkPlugins: [remarkableAdmonitions],
-        },
+        // Remove the markdown key from here
+        // markdown: {
+        //   remarkPlugins: [remarkableAdmonitions],
+        // },
       }),
     ],
   ],
@@ -67,7 +64,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card image
       image: 'img/docusaurus.mylogo.png',
       navbar: {
         title: 'Nenad Writes Docs',
