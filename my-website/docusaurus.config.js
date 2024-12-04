@@ -7,8 +7,18 @@ module.exports = {
 };
 
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const { themes } = require('prism-react-renderer');
+const githubTheme = themes.github;
+module.exports = {
+  // ... other config options
+  themeConfig: {
+    prism: {
+      theme: githubTheme,
+      // ... other prism options
+    },
+  },
+};
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
