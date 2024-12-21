@@ -5,28 +5,25 @@
  */
 
 /* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #7421bc;
-  --ifm-color-primary-dark: #694edf;
-  --ifm-color-primary-darker: #5d40dc;
-  --ifm-color-primary-darkest: #4224c6;
-  --ifm-color-primary-light: #9986e9;
-  --ifm-color-primary-lighter: #a594ec;
-  --ifm-color-primary-lightest: #c9bff3;
-  -ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+::root {
+  --ifm-color-primary: #466d9c;
+  --ifm-color-primary-dark: #3f628c;
+  --ifm-color-primary-darker: #3c5d85;
+  --ifm-color-primary-darkest: #314c6d;
+  --ifm-color-primary-light: #4d78ac;
+  --ifm-color-primary-lighter: #527eb2;
+  --ifm-color-primary-lightest: #6a8fbc;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-    --ifm-color-primary: #ffbe6b;
-  --ifm-color-primary-dark: #ffae47;
-  --ifm-color-primary-darker: #ffa635;
-  --ifm-color-primary-darkest: #fd8e00;
-  --ifm-color-primary-light: #ffce8f;
-  --ifm-color-primary-lighter: #ffd6a1;
-  --ifm-color-primary-lightest: #ffeed8;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #0093c2;
+  --ifm-color-primary-dark: #0084af;
+  --ifm-color-primary-darker: #007da5;
+  --ifm-color-primary-darkest: #006788;
+  --ifm-color-primary-light: #00a2d5;
+  --ifm-color-primary-lighter: #00a9df;
+  --ifm-color-primary-lightest: #00bffc;
 }
 /**
  Docusaurus-like styling for `remarkable-admonitions` blocks
@@ -131,14 +128,14 @@
   fill: #f1c40f;
 }
 h1 {
-  color: rgb(51, 153, 59);
+  color: #466d9c;
 }
-#h2 {
-  color: #97e986;
+h2 {
+  color: #3f628c;
 }
-#b {
+h3 {
+  color: #3c5d85;
+}
+b {
   color: #a8f45c;
-}
-#h3 {
-  color: #45b400;
 }

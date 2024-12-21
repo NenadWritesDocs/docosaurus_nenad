@@ -1,9 +1,9 @@
 Nenad Pajović, Technical Writer - CV
 
 Technical writer with five years of experience in the IT industry. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and technologies, including Markdown, and version control systems. Can talk for hours about short stories, bicycles, and cooking. 
-Learning PowerShell and how to play Bluey's opening theme on my kid's ukulele. 
+Learning PowerShell and how to play Bluey's opening theme on my kid's ukulele.
 
-If needed, can provide reference letters for my previous work experience. 
+If needed, can provide reference letters for my previous work experience.
 ## Contact details
 :email: nenadwritesdocs@gmail.com
 
@@ -13,7 +13,7 @@ If needed, can provide reference letters for my previous work experience.
 
 ## FIS (May 2024 - present)
 
-Back at FIS after after 2 years. Now part of a different product organization, working together with a team of technical writers. Documenting end-user documentation, developer guides, and advocating technical writing best practices.
+Back at FIS after after 2 years. Now part of a different product organization, working together with a team of technical writers. Documenting end-user documentation, developer guides, and advocating technical writing best practices. Whenever I get a chance, I learn more about automation (Python, PowerShell, Power Automate).
 
 ## Think Big Development (July 2023 - March 2024)
 

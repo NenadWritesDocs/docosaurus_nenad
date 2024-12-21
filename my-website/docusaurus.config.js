@@ -4,7 +4,6 @@
 const { themes } = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
-const remarkableAdmonitions = require('remarkable-admonitions');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -30,14 +29,9 @@ const config = {
     locales: ['en'],
   },
 
-  // Add markdown configuration at the top level
-  markdown: {
-    remarkPlugins: [remarkableAdmonitions],
-  },
-
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -45,93 +39,78 @@ const config = {
           // Additional docs options
         },
         blog: {
+          path: './blog', // Path to your blog folder
+          routeBasePath: 'blog', // Access the blog at /blog
           showReadingTime: true,
           sortPosts: 'ascending',
           postsPerPage: 1,
-          // Additional blog options
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        // Remove the markdown key from here
-        // markdown: {
-        //   remarkPlugins: [remarkableAdmonitions],
-        // },
+        // Other preset options if any
       }),
     ],
   ],
 
-  themeConfig:
+  themeConfig: {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      image: 'img/docusaurus.mylogo.png',
-      navbar: {
-        title: 'Nenad Writes Docs',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/docusaurus.mylogo.png',
+    navbar: {
+      title: 'Nenad Writes Docs',
+      logo: {
+        alt: 'Site Logo',
+        src: 'img/logo.svg',
+        width: 32,
+        height: 32,
+      },
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'CV and portfolio',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'CV and portfolio',
-          },
-          { to: '/blog', label: 'NYATWB', position: 'left' },
-          {
-            href: 'https://github.com/NenadWritesDocs',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'CV and Portfolio',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/nenad-pajovi%C4%87-127272159/',
-              },
-              {
-                label: 'Substack',
-                href: 'https://substack.com/profile/85055366-lako_polako?utm_source=user-menu',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub - Docusaurus Repository',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Nenad Writes Docs. Built with Docusaurus.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+        { to: '/blog', label: 'NYATWB', position: 'left' },
+        {
+          href: 'https://github.com/NenadWritesDocs',
+          label: 'GitHub',
+          position: 'right',
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/nenad-pajovi%C4%87-127272159/',
+            },
+            {
+              label: 'Substack',
+              href: 'https://substack.com/profile/85055366-lako_polako?utm_source=user-menu',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'GitHub - Docusaurus Repository',
+              href: 'https://github.com/facebook/docusaurus',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Nenad Writes Docs. Built with Docusaurus.`,
+    },    
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+  },
 };
 
 module.exports = config;

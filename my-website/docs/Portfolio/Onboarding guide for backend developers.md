@@ -49,11 +49,8 @@ TWITCH_CLIENT_SECRET=sdf;lksdflkjdsflkjsd2qwqhn
 TWITCH_UNIQUE_ID=22222222222
 ```
 
-:::note:
-
+> **_NOTE:_**
 Replace placeholders with your own information (e.g., email address, Jabberwocky account details).
-
-:::
 
 Repeat the same process to create `.env.test.local` file.
 
