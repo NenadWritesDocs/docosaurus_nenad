@@ -1,37 +1,48 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Global CSS for content-centric websites.
+ * Simplified styles for admonitions.
  */
 
-/* You can override the default Infima variables here. */
-::root {
+/* Primary Theme Colors */
+:root {
   --ifm-color-primary: #466d9c;
   --ifm-color-primary-dark: #3f628c;
-  --ifm-color-primary-darker: #3c5d85;
-  --ifm-color-primary-darkest: #314c6d;
   --ifm-color-primary-light: #4d78ac;
-  --ifm-color-primary-lighter: #527eb2;
-  --ifm-color-primary-lightest: #6a8fbc;
+
+  --background-color: #f3f3f3;
+  --text-color: #333;
+  --link-color: #0093c2;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark Mode */
 [data-theme='dark'] {
   --ifm-color-primary: #0093c2;
   --ifm-color-primary-dark: #0084af;
-  --ifm-color-primary-darker: #007da5;
-  --ifm-color-primary-darkest: #006788;
   --ifm-color-primary-light: #00a2d5;
-  --ifm-color-primary-lighter: #00a9df;
-  --ifm-color-primary-lightest: #00bffc;
-}
-/**
- Docusaurus-like styling for `remarkable-admonitions` blocks
- */
 
- .admonition {
+  --background-color: #373737;
+  --text-color: #ddd;
+  --link-color: #00a9df;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Admonitions */
+.admonition {
   margin-bottom: 1em;
   padding: 15px 30px 15px 15px;
+  border-left: 8px solid;
 }
 
 .admonition h5 {
@@ -50,92 +61,68 @@
   display: inline-block;
   width: 22px;
   height: 22px;
-  stroke-width: 0;
 }
 
 .admonition-content > :last-child {
   margin-bottom: 0;
 }
 
-/** Customization */
-.admonition-warning {
-  background-color: rgba(230, 126, 34, 0.1);
-  border-left: 8px solid #e67e22;
-}
-
-.admonition-warning h5 {
-  color: #e67e22;
-}
-
-.admonition-warning .admonition-icon svg {
-  stroke: #e67e22;
-  fill: #e67e22;
-}
-
-.admonition-tip {
+/* Note (Green Background) */
+.admonition-note {
   background-color: rgba(46, 204, 113, 0.1);
-  border-left: 8px solid #2ecc71;
+  border-left-color: #2ecc71;
 }
 
-.admonition-tip h5 {
+.admonition-note h5 {
   color: #2ecc71;
 }
 
-.admonition-tip .admonition-icon svg {
+.admonition-note .admonition-icon svg {
   stroke: #2ecc71;
   fill: #2ecc71;
 }
 
-.admonition-caution {
-  background-color: rgba(231, 76, 60, 0.1);
-  border-left: 8px solid #e74c3c;
-}
-
-.admonition-caution h5 {
-  color: #e74c3c;
-}
-
-.admonition-caution .admonition-icon svg {
-  stroke: #e74c3c;
-  fill: #e74c3c;
-}
-
-.admonition-important {
+/* Tip (Blue Background) */
+.admonition-tip {
   background-color: rgba(52, 152, 219, 0.1);
-  border-left: 8px solid #3498db;
+  border-left-color: #3498db;
 }
 
-.admonition-important h5 {
+.admonition-tip h5 {
   color: #3498db;
 }
 
-.admonition-important .admonition-icon svg {
+.admonition-tip .admonition-icon svg {
   stroke: #3498db;
   fill: #3498db;
 }
 
-.admonition-note {
+/* Warning (Amber Background) */
+.admonition-warning {
   background-color: rgba(241, 196, 15, 0.1);
-  border-left: 8px solid #f1c40f;
+  border-left-color: #f1c40f;
 }
 
-.admonition-note h5 {
+.admonition-warning h5 {
   color: #f1c40f;
 }
 
-.admonition-note .admonition-icon svg {
+.admonition-warning .admonition-icon svg {
   stroke: #f1c40f;
   fill: #f1c40f;
 }
-h1 {
-  color: #466d9c;
+
+/* Important (Red Background) */
+.admonition-important {
+  background-color: #e94d3b1a;
+  border-left-color: #e74c3c;
 }
-h2 {
-  color: #3f628c;
+
+.admonition-important h5 {
+  color: #e74c3c;
 }
-h3 {
-  color: #3c5d85;
-}
-b {
-  color: #a8f45c;
+
+.admonition-important .admonition-icon svg {
+  stroke: #e74c3c;
+  fill: #e74c3c;
 }

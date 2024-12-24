@@ -16,7 +16,7 @@ Badges and Pins (Items) - Badges and pins serve as visual representations of acc
 
 In this example you will learn how to create an automated rule that rewards players based on the number of videos they watched on your streaming platform. In addition to this, you will learn how to create a leaderboard.
 
-> **_NOTE:_**
+>**NOTE:**
 In this example you need to create some basic objects in Peregrine. If you need to refresh your knowledge on this, please check the linked articles in each step.
 
 
@@ -25,7 +25,7 @@ In this example you need to create some basic objects in Peregrine. If you need 
 
 You can start this setup by creating an item class called Badges where you will store different badges as items.
 
-> **TIP:**
+>**TIP:**
 To associate these items with the player statistics, you must add a **Text** property field called **StatName** so that you can add the player statsitic that is item is associated to.
 
 For this scenario, create badges based on the achievements of the users of your platform. For example, you can create the following items:

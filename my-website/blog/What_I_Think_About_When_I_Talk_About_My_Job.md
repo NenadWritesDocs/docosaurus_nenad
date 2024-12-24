@@ -41,3 +41,6 @@ In the meantime I passed the Azure Fundamentals exam, and enjoyed the learning p
 Whenever I have time in my week I dedicate a couple of hours for sitting at my desk and learning. First PowerShell, than Python, after that perhaps German language.
 
 ## Current situation, goals and dreams
+
+I finally feel properly anchored at my current position. I know my tasks and deadlines, have great relationship with my colleagues and don't have the urge to search for a different job.
+I have personal goals that I try to achieve, and become a better technical writer. As for dreams, I will end it with a quote from one of my favorite bands "Hope is for presidents, and dreams are for people who are sleeping.

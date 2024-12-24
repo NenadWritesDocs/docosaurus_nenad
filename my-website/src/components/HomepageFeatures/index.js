@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_writing.svg').default,
     description: (
       <>
-        This site is a pet project designed to host my CV, and showcase my technical writing portfolio.
+        This site is a pet project designed to host my resume, showcase my technical writing portfolio, and publish my ramblings.
       </>
     ),
   },
