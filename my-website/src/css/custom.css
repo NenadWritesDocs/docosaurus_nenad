@@ -20,12 +20,14 @@
   --ifm-color-primary-dark: #0084af;
   --ifm-color-primary-light: #00a2d5;
 
-  --background-color: #373737;
+  --background-color: #353539;
   --text-color: #ddd;
   --link-color: #00a9df;
 }
 
 body {
+  width: 100vw;
+  min-height: 100vh;
   background-color: var(--background-color);
   color: var(--text-color);
 }
@@ -125,4 +127,29 @@ a:hover {
 .admonition-important .admonition-icon svg {
   stroke: #e74c3c;
   fill: #e74c3c;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+#root {
+  min-height: 100%;
+  background-color: var(--background-color);
+}
+
+/* Apply the same background color for header and footer */
+header, footer {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Optional: Remove default padding/margins from header/footer */
+header, footer {
+  margin: 0;
+  padding: 1em; /* Adjust padding as needed */
+  text-align: center; /* Optional: Center align text */
 }
