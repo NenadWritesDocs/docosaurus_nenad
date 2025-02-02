@@ -1,7 +1,6 @@
 Nenad Pajović, Technical Writer - CV
 
-Technical writer with five years of experience in the IT industry. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and technologies, including Markdown, and version control systems. Can talk for hours about short stories, bicycles, and cooking. 
-Learning PowerShell and how to play Bluey's opening theme on my kid's ukulele.
+Technical writer since March 2016. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and technologies. Can talk for hours about coffee, bicycles, and cooking. Always learning.
 
 If needed, can provide reference letters for my previous work experience.
 ## Contact details
@@ -13,7 +12,7 @@ If needed, can provide reference letters for my previous work experience.
 
 ## FIS (May 2024 - present)
 
-Back at FIS after after 2 years. Now part of a different product organization, working together with a team of technical writers. Documenting end-user documentation, developer guides, and advocating technical writing best practices. Whenever I get a chance, I learn more about automation (Python, PowerShell, Power Automate).
+Back at FIS after after 2 years. Now part of a different product organization, working together with a team of technical writers. Documenting end-user documentation, developer guides, improving UI-UX text, and advocating technical writing best practices. Whenever I have chance, I learn more about automation (Python, PowerShell, Selenium).
 
 ## Think Big Development (July 2023 - March 2024)
 
@@ -39,17 +38,18 @@ At CallidusCloud I had an opportunity to work in DITA environment. My responsibi
 
 At eFront I transferred from the customer service roll to technical writing. I had an opportunity to learn the basics of technical writing from senior colleagues. Moreover, I gained experience working in an agile environment where documentation played an integral role as part of the definition of done.
 
-# 🛠️ Tools and Skills
+# 🛠️ Tools, Skills and Certificates
 
 Throughout my career I had experience with different authoring tools, and documentation concepts.
 
-- Authoring tools (MadCap Flare, Paligo, ClickHelp, AuthorIt)
-- Writing documentation in Markdown
+- Authoring tools: MadCap Flare, Paligo, ClickHelp, AuthorIt, Vale(prose linter)
+- Markdown
+- Basic understanding of HTML and CSS
 - Content Management Platforms (Confluence, WikiJS, Azure DevOps wiki, Sharepoint)
 - Version control systems (Git, SVN)
 - Docs-as-code approach
-- Static site generators
-- Pet project (a site built on the Docosaurus platform and deployed via Netlify - https://nenadwritesdocs.com/)
+- Static site generators (Docusaurus)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/nenadp-6726/credentials/b60b688915942a3a?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
 
 # 🏫 Education
 
