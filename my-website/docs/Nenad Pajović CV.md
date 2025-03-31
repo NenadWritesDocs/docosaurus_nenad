@@ -12,7 +12,7 @@ If needed, can provide reference letters for my previous work experience.
 
 ## FIS (May 2024 - present)
 
-Back at FIS after after 2 years. Now part of a different product organization, working together with a team of technical writers. Documenting end-user documentation, developer guides, improving UI-UX text, and advocating technical writing best practices. Whenever I have chance, I learn more about automation (Python, PowerShell, Selenium).
+Back at FIS after after 2 years. Now part of a different product organization, working together with a team of technical writers. Documenting end-user documentation, developer guides, improving UI-UX text, and advocating technical writing best practices. Whenever I have chance, I learn more about automation (Python, PowerShell, Selenium) and machine learning.
 
 ## Think Big Development (July 2023 - March 2024)
 
