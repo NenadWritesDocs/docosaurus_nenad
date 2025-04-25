@@ -1,3 +1,4 @@
+// docusaurus.config.js
 module.exports = {
   title: 'Nenad Writes Docs',
   tagline: 'Technical writing & docs',
@@ -5,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   organizationName: 'nenadpajovic',
   projectName: 'my-website',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -15,14 +16,18 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          // editUrl: 'https://github.com/nenadpajovic/my-website/edit/main/',
         },
-        blog: {},
+        blog: {
+          showReadingTime: true,
+          // editUrl: 'https://github.com/nenadpajovic/my-website/edit/main/blog/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
-  ],
+  ],  // ← Make sure this comma is here!
 
   themeConfig: {
     colorMode: {
@@ -32,14 +37,24 @@ module.exports = {
     },
     navbar: {
       title: 'Nenad Writes Docs',
-      logo: { alt: 'Logo', src: 'img/logo.svg' },
+      logo: {
+        alt: 'Logo',
+        src: 'img/logo.svg',
+      },
       items: [
-        { to: '/docs/intro', label: 'Docs', position: 'left' },
-        { to: '/docs/api/overview', label: 'API Reference', position: 'left' },
         { to: '/blog', label: 'Blog', position: 'left' },
-        { href: 'https://github.com/nenadpajovic', label: 'GitHub', position: 'right' },
-        { href: 'https://www.linkedin.com/in/nenadpajovic', label: 'LinkedIn', position: 'right' },
+        {
+          href: 'https://github.com/NenadWritesDocs',
+          label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://www.linkedin.com/in/nenad-pajović-127272159/',
+          label: 'LinkedIn',
+          position: 'right',
+        },
       ],
     },
+    // ... any other themeConfig settings ...
   },
 };

@@ -18,7 +18,7 @@ export default function Home(): JSX.Element {
           <Link to="/blog" className={styles.button}>
             Read Blog
           </Link>
-          <Link to="/docs/Portfolio" className={styles.button}>
+          <Link to="/docs/CV/NenadPajovic_CV" className={styles.button}>
             Portfolio and CV
           </Link>
           <a href="mailto:nenadwritesdocs@gmail.com" className={styles.button}>
@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
       <footer className={styles.footer}>
         <p>
           <a
-            href="https://github.com/nenadpajovic"
+            href="https://github.com/NenadWritesDocs"
             className={styles.footerLink}
             target="_blank"
             rel="noopener noreferrer"
@@ -45,7 +45,7 @@ export default function Home(): JSX.Element {
           </a>
           {' | '}
           <a
-            href="https://www.linkedin.com/in/nenadpajovic"
+            href="https://www.linkedin.com/in/nenad-pajovi%C4%87-127272159/"
             className={styles.footerLink}
             target="_blank"
             rel="noopener noreferrer"
