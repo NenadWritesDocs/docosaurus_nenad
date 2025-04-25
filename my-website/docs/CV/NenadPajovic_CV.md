@@ -1,4 +1,4 @@
-Nenad Pajović, Technical Writer - CV
+# Nenad Pajović, Technical Writer - CV
 
 Technical writer since March 2016. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and technologies. Can talk for hours about coffee, bicycles, and cooking. Always learning.
 
@@ -43,7 +43,7 @@ At eFront I transferred from the customer service roll to technical writing. I h
 Throughout my career I had experience with different authoring tools, and documentation concepts.
 
 - Authoring tools: MadCap Flare, Paligo, ClickHelp, AuthorIt, Vale(prose linter)
-- Markdown
+- Markdown, Python (not there yet, but learning every day)
 - Basic understanding of HTML and CSS
 - Content Management Platforms (Confluence, WikiJS, Azure DevOps wiki, Sharepoint)
 - Version control systems (Git, SVN)

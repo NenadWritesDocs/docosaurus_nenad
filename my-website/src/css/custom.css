@@ -1,155 +1,103 @@
-/**
- * Global CSS for content-centric websites.
- * Simplified styles for admonitions.
- */
+/* src/pages/Home.module.css */
 
-/* Primary Theme Colors */
-:root {
-  --ifm-color-primary: #466d9c;
-  --ifm-color-primary-dark: #3f628c;
-  --ifm-color-primary-light: #4d78ac;
-
-  --background-color: #f3f3f3;
-  --text-color: #333;
-  --link-color: #0093c2;
-}
-
-/* Dark Mode */
-[data-theme='dark'] {
-  --ifm-color-primary: #0093c2;
-  --ifm-color-primary-dark: #0084af;
-  --ifm-color-primary-light: #00a2d5;
-
-  --background-color: #353539;
-  --text-color: #ddd;
-  --link-color: #00a9df;
-}
-
-body {
-  width: 100vw;
+/* 1. HERO SECTION */
+.hero {
+  position: center;
+  /* make sure you've placed the image at static/img/pencils.jpg */
+  background-image: url('/img/desk2.jpg');
+  background-size: cover;
+  background-position: center;
   min-height: 100vh;
-  background-color: var(--background-color);
+}
+
+/* light white wash over the image */
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.4);
+  z-index: 0;
+}
+
+/* box your text/buttons */
+.heroContent {
+  position: relative;
+  z-index: 1;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+/* 2. TYPOGRAPHY */
+.heroTitle {
+  font-size: 3.5rem;       /* bump up for emphasis */
+  font-weight: 700;
+  margin: 0;
+  color: var(--text-color-strong);
+}
+
+.heroSubtitle {
+  font-size: 1.75rem;
+  margin-top: 0.5rem;
+  color: var(--text-color-subtle);
+}
+
+.heroDescription {
+  font-size: 1.125rem;
+  margin: 1.5rem 0;
+  color: var(--text-color-muted);
+  line-height: 1.6;
+}
+
+/* 3. BUTTONS */
+.buttonContainer {
+  display: inline-flex;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.button {
+  padding: 0.75rem 1.5rem;
+  background: var(--button-bg);
+  color: var(--button-text);
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s ease;
+}
+.button:hover {
+  background: var(--button-hover-bg);
+}
+
+/* 4. FOOTER */
+.footer {
+  position: relative;
+  z-index: 1;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-color);
+  text-align: center;
   color: var(--text-color);
+  font-size: 0.875rem;
 }
 
-a {
+.footerLink {
+  margin: 0 0.5rem;
   color: var(--link-color);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
-/* Admonitions */
-.admonition {
-  margin-bottom: 1em;
-  padding: 15px 30px 15px 15px;
-  border-left: 8px solid;
-}
-
-.admonition h5 {
-  margin-top: 0;
-  margin-bottom: 8px;
-  text-transform: uppercase;
-}
-
-.admonition-icon {
+/* 5. ICON SIZING */
+.icon {
+  width: 1.25rem;    /* ~20px */
+  height: 1.25rem;
   display: inline-block;
   vertical-align: middle;
-  margin-right: 0.2em;
-}
-
-.admonition-icon svg {
-  display: inline-block;
-  width: 22px;
-  height: 22px;
-}
-
-.admonition-content > :last-child {
-  margin-bottom: 0;
-}
-
-/* Note (Green Background) */
-.admonition-note {
-  background-color: rgba(46, 204, 113, 0.1);
-  border-left-color: #2ecc71;
-}
-
-.admonition-note h5 {
-  color: #2ecc71;
-}
-
-.admonition-note .admonition-icon svg {
-  stroke: #2ecc71;
-  fill: #2ecc71;
-}
-
-/* Tip (Blue Background) */
-.admonition-tip {
-  background-color: rgba(52, 152, 219, 0.1);
-  border-left-color: #3498db;
-}
-
-.admonition-tip h5 {
-  color: #3498db;
-}
-
-.admonition-tip .admonition-icon svg {
-  stroke: #3498db;
-  fill: #3498db;
-}
-
-/* Warning (Amber Background) */
-.admonition-warning {
-  background-color: rgba(241, 196, 15, 0.1);
-  border-left-color: #f1c40f;
-}
-
-.admonition-warning h5 {
-  color: #f1c40f;
-}
-
-.admonition-warning .admonition-icon svg {
-  stroke: #f1c40f;
-  fill: #f1c40f;
-}
-
-/* Important (Red Background) */
-.admonition-important {
-  background-color: #e94d3b1a;
-  border-left-color: #e74c3c;
-}
-
-.admonition-important h5 {
-  color: #e74c3c;
-}
-
-.admonition-important .admonition-icon svg {
-  stroke: #e74c3c;
-  fill: #e74c3c;
-}
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  background-color: var(--background-color);
-  color: var(--text-color);
-}
-
-#root {
-  min-height: 100%;
-  background-color: var(--background-color);
-}
-
-/* Apply the same background color for header and footer */
-header, footer {
-  background-color: var(--background-color);
-  color: var(--text-color);
-}
-
-/* Optional: Remove default padding/margins from header/footer */
-header, footer {
-  margin: 0;
-  padding: 1em; /* Adjust padding as needed */
-  text-align: center; /* Optional: Center align text */
 }

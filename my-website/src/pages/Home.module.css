@@ -1,0 +1,102 @@
+/* src/pages/Home.module.css */
+
+/* 1. HERO SECTION */
+.hero {
+    position: relative;               /* was “center”—fixing to relative */
+    background-image: url('/img/desk2.jpg'); /* ensure desk2.jpg lives in static/img */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  }
+  
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    background: rgba(255, 255, 255, 0.4);
+    z-index: 0;
+  }
+  
+  /* 2. HERO CONTENT BOX */
+  .heroContent {
+    position: relative;
+    z-index: 1;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 0.5rem;
+    text-align: center;
+  }
+  
+  /* 3. TYPOGRAPHY */
+  .heroTitle {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin: 0;
+    color: var(--text-color-strong);
+  }
+  
+  .heroSubtitle {
+    font-size: 1.75rem;
+    margin-top: 0.5rem;
+    color: var(--text-color-subtle);
+  }
+  
+  .heroDescription {
+    font-size: 1.125rem;
+    margin: 1.5rem 0;
+    color: var(--text-color-muted);
+    line-height: 1.6;
+  }
+  
+  /* 4. BUTTONS */
+  .buttonContainer {
+    display: inline-flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  
+  .button {
+    padding: 0.75rem 1.5rem;
+    background: var(--button-bg);
+    color: var(--button-text);
+    border: 1px solid var(--border-color);
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background 0.2s ease;
+  }
+  .button:hover {
+    background: var(--button-hover-bg);
+  }
+  
+  /* 5. FOOTER */
+  .footer {
+    position: relative;
+    z-index: 1;
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-color);
+    text-align: center;
+    color: var(--text-color);
+    font-size: 0.875rem;
+  }
+  
+  .footerLink {
+    margin: 0 0.5rem;
+    color: var(--link-color);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  
+  /* 6. ICON SIZING */
+  .icon {
+    width: 1.25rem;
+    height: 1.25rem;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
