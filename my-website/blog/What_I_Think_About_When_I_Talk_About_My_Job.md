@@ -38,7 +38,7 @@ Now that I've spent 56 years in this role, and lost my job twice due to recessio
 The beauty of this job is that you have almost infinite number of topics to learn. Currently, my plan is to learn as much as possible about automation and apply those skills to my job. If I settled on being a technical writer, at least I can try and be as technical as possible. Learning about Python and PowerShell proved to be a great way for that. It's not a smooth sailing all the time, but challenges are part of the process.
 In the meantime I passed the Azure Fundamentals exam, and enjoyed the learning process. It was fun to sit at the desk again, create flashcards and take notes (though my budget didn't appreciate me buying all those pens and markers). The best outcome of this course and exam isn't the fact that now I know what VM is and how to deploy it. It's the fact that I still have the desire and grit for learning new things.
 
-Whenever I have time in my week I dedicate a couple of hours for sitting at my desk and learning. First PowerShell, than Python, after that perhaps German language.
+Whenever I have time in my week I dedicate a couple of hours for sitting at my desk and learning. First PowerShell, then Python, after that perhaps German language.
 
 ## Current situation, goals and dreams
 

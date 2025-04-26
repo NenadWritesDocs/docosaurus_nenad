@@ -1,6 +1,6 @@
 # Nenad Pajović, Technical Writer - CV
 
-Technical writer since March 2016. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and technologies. Can talk for hours about coffee, bicycles, and cooking. Always learning.
+Technical writer since March 2016. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and subject matter experts, to gather information and deliver high-quality content. Proficient in various documentation tools and methodologies. Can talk for hours about coffee, bicycles, and cooking. Always learning.
 
 If needed, can provide reference letters for my previous work experience.
 ## Contact details
@@ -12,11 +12,11 @@ If needed, can provide reference letters for my previous work experience.
 
 ## FIS (May 2024 - present)
 
-Back at FIS after after 2 years. Now part of a different product organization, working together with a team of technical writers. Documenting end-user documentation, developer guides, improving UI-UX text, and advocating technical writing best practices. Whenever I have chance, I learn more about automation (Python, PowerShell, Selenium) and machine learning.
+Back at FIS after after 2 years. Now part of a different product , working together with a team of technical writers. Documenting end-user documentation, developer guides, improving UI-UX text, and advocating technical writing best practices. Whenever I have chance, I learn more about automation (Python, PowerShell, Selenium) and machine learning.
 
 ## Think Big Development (July 2023 - March 2024)
 
-As a technical writer, I have had the opportunity to contribute to various aspects of documentation within the organization. Collaborating closely with senior developers, I contributed in creating the onboarding guide for new team members. Additionally, I have been responsible for creating client-facing documentation, which includes end-user documentation and project specific documents.
+As a technical writer, I have had the opportunity to contribute to various aspects of documentation within the organization. Collaborating closely with senior PHP developers, I contributed in creating the onboarding guide for new team members. Additionally, I have been responsible for creating client-facing documentation, which includes end-user documentation and project specific documents.
 
 ## Grid Dynamics (January 2023 - June 2023)
 
@@ -24,7 +24,7 @@ At Grid Dynamics I worked as a lone writer, serving multiple teams. My responsib
 
 ## Xentral (January 2022 - December 2022) - remote position
 
-During my tenure at Xentral, I gained valuable experience in a startup environment as part of a dedicated team of four technical writers. Our main task was to keep the online help up-to-date, publish release notes and assist the product team with the UI text.
+At Xentral, I gained valuable experience in a start-up environment as part of a dedicated team of four technical writers. Our main task was to keep the online help up-to-date, publish release notes and assist the product team with the UI text.
 
 ## FIS (April 2020 - January 2022)
 

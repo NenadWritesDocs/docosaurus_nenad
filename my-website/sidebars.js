@@ -8,7 +8,7 @@ const sidebars = {
       type: 'category',
       label: 'CV',
       items: [
-        'CV/NenadPajovic_CV',      // your CV doc
+        'CV/NenadPajovic_CV',  // your MD doc
       ],
     },
     {
@@ -19,6 +19,12 @@ const sidebars = {
         'Portfolio/Challenge your audience',
         'Portfolio/Release notes',
       ],
+    },
+    // ← Top-level link item
+    {
+      type: 'link',
+      label: 'Download CV as PDF',
+      href: '/cv.pdf',     // matches static/cv.pdf
     },
   ],
 };

@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'my-website',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/kb_solid.svg',
 
   presets: [
     [
@@ -39,7 +39,7 @@ module.exports = {
       title: 'Nenad Writes Docs',
       logo: {
         alt: 'Logo',
-        src: 'img/logo.svg',
+        src: 'img/kb_solid.svg',
       },
       items: [
         { to: '/blog', label: 'Blog', position: 'left' },
