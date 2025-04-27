@@ -33,7 +33,7 @@ This feeling followed me even after changing companies several times (one could 
 
 ## What to do now when you're in your 30s
 
-Now that I've spent 56 years in this role, and lost my job twice due to recession, I feel that it's the right moment to make a decision. Either continue working as a technical writer or try learning something new.
+Now that I've spent more than 6 years in this role, and lost my job twice due to recession, I feel that it's the right moment to make a decision. Either continue working as a technical writer or try learning something new.
 
 The beauty of this job is that you have almost infinite number of topics to learn. Currently, my plan is to learn as much as possible about automation and apply those skills to my job. If I settled on being a technical writer, at least I can try and be as technical as possible. Learning about Python and PowerShell proved to be a great way for that. It's not a smooth sailing all the time, but challenges are part of the process.
 In the meantime I passed the Azure Fundamentals exam, and enjoyed the learning process. It was fun to sit at the desk again, create flashcards and take notes (though my budget didn't appreciate me buying all those pens and markers). The best outcome of this course and exam isn't the fact that now I know what VM is and how to deploy it. It's the fact that I still have the desire and grit for learning new things.
@@ -42,5 +42,5 @@ Whenever I have time in my week I dedicate a couple of hours for sitting at my d
 
 ## Current situation, goals and dreams
 
-I finally feel properly anchored at my current position. I know my tasks and deadlines, have great relationship with my colleagues and don't have the urge to search for a different job.
+I finally feel comfortable working as a technical writer. I know my tasks and deadlines, have great relationship with my colleagues and don't love to explore new technologies and learn new skills.
 I have personal goals that I try to achieve, and become a better technical writer. As for dreams, I will end it with a quote from one of my favorite bands "Hope is for presidents, and dreams are for people who are sleeping.

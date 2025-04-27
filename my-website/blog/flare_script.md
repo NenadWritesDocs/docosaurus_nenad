@@ -15,9 +15,32 @@ Or, you can ask Copilot for help and create a Python script that handles that fo
 
 The first response was rough... I failed to specify where to look, and what to look for. After several iterations I ended up with the following Python script:
 
-``` python script goes here```
+```python 
+# Use this script to generate a report of the conditional tags currently used in a project.
+import os
+import xml.etree.ElementTree as ET
+def extract_conditional_tag_expression(file_path):
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    return root.atrib.get ('ConditionalTagExpression', 'Not Found')
+def create_report (directory):
+    report = []
+    for filename in os.listdir(directory):
+        if filename.endswith('.fltar'):
+            file_path = os.path.join(directory, filename)
+            conditional_tag_expression = extract_conditional_tag_expression(file_path)
+            report.append(f"{filename}: {conditional_tag_expression}")
+            #In the report path variable specify the location of your report and the title.
+    report_path = os.path.join(directory, 'ConditionalTagReport.csv')
+    with open(report, 'w') as report:
+        report.write('\n'.join(report))
+    print(f"Report created at {report_path}")
+#Specify directory containing the .fltar files. The path should lead to the Targets folder of the Flare Project.
+directory = r'add your directory here'
+create_report(directory)
+```
 
-I updated it to create a .csv report, with specific columns, and to include time and date in the file name. Now before confirming that the documentation is ready for the release, we run this script to confirm that clients won't see our internal comments and questions.
+I updated it to create a .csv report, with specific columns, and to include time and date in the file name. Now before confirming that the documentation is ready for the release, I run this script to confirm that clients won't see our internal comments and questions.
 
 ## What's next
 

@@ -21,7 +21,8 @@
 
 /* box your text/buttons */
 .heroContent {
-  position: relative;
+  padding-top: 8rem;
+  padding-bottom: 4rem;
   z-index: 1;
   max-width: 800px;
   margin: 0 auto;

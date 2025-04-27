@@ -21,11 +21,6 @@ const sidebars = {
       ],
     },
     // ← Top-level link item
-    {
-      type: 'link',
-      label: 'Download CV as PDF',
-      href: '/cv.pdf',     // matches static/cv.pdf
-    },
   ],
 };
 
