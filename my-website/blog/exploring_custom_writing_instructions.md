@@ -29,8 +29,8 @@ You can add a table of UI elements used in your product, and ensure they are alw
 Technical authors relying on their internal style guide are well familiar with it, and chances are they apply most (if not all) rules immediately. However, in cases where you:
 - receive initial content from another author (a wiki page written by an SME, customer support team docs, internal docs...)
 - perform a peer review
-- onboard a new coleague
-- rewrite old technical documentation
+- onboard a new colleague
+- rewrite existing technical documentation
   
 the custom instructions file can ensure the Copilot generated output follows your style guide.
 The style guide is like sourdough bread starter. You need to feed it from time to time (by adding more rules and examples and removing those no longer necessary) and it is best when you share it with others.

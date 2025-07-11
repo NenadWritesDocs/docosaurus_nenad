@@ -2,9 +2,9 @@
 
 ## About me
 
-Technical writer since March 2016. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and SMEs, to gather information and deliver high-quality content. Proficient in various documentation tools and methodologies. 
+Technical writer since March 2016. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and SMEs, to gather information and deliver high-quality content. Proficient in various documentation tools and methodologies.
 
-Can talk for hours about coffee, bicycles, and cooking. Enjoying photography, bicycle maintenance, farmers' markets and reading. Always learning.
+Can talk for hours about coffee, bicycles, and cooking. Enjoying photography, bicycle maintenance, farmer markets and reading. Always learning.
 
 If needed, can provide reference letters for my previous job positions. You can  download a more formal version of my CV as a PDF file [⬇ Download my CV](/NenadPajovicCV.pdf).
 
@@ -17,7 +17,7 @@ If needed, can provide reference letters for my previous job positions. You can 
 
 ## FIS (May 2024 - present)
 
-Back at FIS after after 2 years. Now part of a different product , working together with a team of technical writers. Documenting end-user documentation, developer guides, improving UI-UX text, and advocating technical writing best practices (docs-as-code approach, working in branches, using prose linting tools, automating everyday tasks). Whenever I have chance, I learn more about automation (Python, PowerShell, Selenium), AI and machine learning.
+Back at FIS after after 2 years. Now part of a different product, working together with a team of technical writers. Documenting end-user documentation, developer guides, improving UI-UX text, and advocating technical writing best practices (docs-as-code approach, working in branches, using prose linting tools, automating everyday tasks). Whenever I have chance, I learn more about automation (Python, PowerShell, Selenium), AI and machine learning.
 
 ## Think Big Development (July 2023 - March 2024)
 
