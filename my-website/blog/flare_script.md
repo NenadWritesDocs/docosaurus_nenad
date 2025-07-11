@@ -6,6 +6,7 @@ tags: [automation, work]
 ---
 
 In 2025. I've decided to learn more about automation. After initially buying several books about Python, so much actually that my daughter started recognizing them as "the ones with the robot", and going through several online tutorials it was the time to actually automate something meaningful.
+<!--truncate-->
 
 Technical writers in our organization use MadCap Flare for writing and managing documentation. An industry standard documentation tool, very robust and with its flaws. One of the major issues I have with Flare is constantly switching between multiple projects (and of course crashing from time to time but at this point it's become expected). For the documentation release, we publish updated documents every other week. The product documentation is split between 5 different projects, each containing variables and conditional text.
 
