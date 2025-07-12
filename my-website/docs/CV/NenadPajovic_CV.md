@@ -2,7 +2,7 @@
 
 ## About me
 
-Technical writer since March 2016. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and SMEs, to gather information and deliver high-quality content. Proficient in various documentation tools and methodologies.
+Technical writer since March 2016. Skilled in creating clear, concise, and user-friendly documentation that effectively communicates complex technical concepts. Experienced in working and collaborating with cross-functional scrum teams, including developers, product managers, product owners, and SMEs, to gather information and deliver high-quality content. Proficient in various documentation tools and methodologies. Striving to automate boring tasks, and make life of a technical writer as easy as possible.
 
 Can talk for hours about coffee, bicycles, and cooking. Enjoying photography, bicycle maintenance, farmer markets and reading. Always learning.
 

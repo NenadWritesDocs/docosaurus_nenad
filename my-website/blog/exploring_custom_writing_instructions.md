@@ -22,7 +22,7 @@ The key part is to add the style guide file to the context of your prompt so tha
 ## Custom instructions file
 
 The custom instructions file I created is a markdown file based on *Microsoft Style Guide*, best practices in technical writing and  some custom rules. Your custom rules are the best part of the file, because you ensure that Copilot follows what is important in your organization.
-You can add a table of UI elements used in your product, and ensure they are always written using bold characters  or wrapped in a particular html tag. Ensure the custom instructions  file is written in an AI friendly manner. Readable tables, simple commands such as "Use active voice", tables containing "Use" and "Don't use" columns, determine the tone and how you address the reader... 
+You can add a table of UI elements used in your product, and ensure they are always written using bold characters  or wrapped in a particular html tag. Ensure the custom instructions  file is written in an AI friendly manner. Readable tables, simple commands such as "Use active voice", tables containing "Use" and "Don't use" columns, determine the tone and how you address the reader...
 
 ## Use cases
 
@@ -35,4 +35,4 @@ Technical authors relying on their internal style guide are well familiar with i
 the custom instructions file can ensure the Copilot generated output follows your style guide.
 The style guide is like sourdough bread starter. You need to feed it from time to time (by adding more rules and examples and removing those no longer necessary) and it is best when you share it with others.
 
-As with any other AI related use case, ensure that the final review is conducted by a carbon based human who runs on coffee and chocolate.
+As with any other AI related use case, ensure that the final review is conducted by a carbon-based lifeform which runs on coffee and chocolate.
