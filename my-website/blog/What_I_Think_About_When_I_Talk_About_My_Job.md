@@ -42,5 +42,5 @@ Whenever I have time in my week I dedicate a couple of hours for sitting at my d
 
 ## Current situation, goals and dreams
 
-I finally feel comfortable working as a technical writer. I know my tasks and deadlines, have great relationship with my colleagues and don't love to explore new technologies and learn new skills.
+I finally feel comfortable working as a technical writer. I know my tasks and deadlines, have great relationship with my colleagues and love to explore new technologies and learn new skills.
 I have personal goals that I try to achieve, and become a better technical writer. As for dreams, I will end it with a quote from one of my favorite bands "Hope is for presidents, and dreams are for people who are sleeping.
