@@ -7,8 +7,13 @@ module.exports = {
   organizationName: 'nenadpajovic',
   projectName: 'my-website',
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/kb_solid.svg',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   presets: [
     [
